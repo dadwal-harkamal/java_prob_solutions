@@ -21,7 +21,7 @@ public class GFG {
 		            sumo += i;
 		        
 		    }
-		    System.out.println(sume+" "+sumo);
+		    System.out.println(sume+ " "+sumo);
 		    t--;
 		}
   sc.close();
